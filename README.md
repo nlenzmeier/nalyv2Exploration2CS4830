@@ -1,4 +1,4 @@
-# ** Sending an Email via Personal Website **
+# **Sending an Email via Personal Website**
 
 ###### Objective:
 This week's exploration goal is to create a modal on my personal website that allows the user to enter in their information and send me a message without have to physically send me an email from their personal email.
