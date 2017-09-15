@@ -76,10 +76,10 @@ In conclusion, this was a very fun activity and think I will use this code for f
 ###### **Proof It Works**
 
 Here is the modal:
-![modal](www.niclenz.me/images/modal.png)
+www.niclenz.me/images/modal.png
 
 Here is the email received:
-![email](www.niclenz.me/images/email.png)
+www.niclenz.me/images/email.png
 
 
 
